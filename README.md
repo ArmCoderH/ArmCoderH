@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![ArmCoderH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArmCoderH&theme=monokai&hide_border=false)
 <!--
 **ArmCoderH/ArmCoderH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
