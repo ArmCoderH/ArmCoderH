@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hi there 
+
+![ArmCoderH's Stats](https://github-readme-stats.vercel.app/api?username=ArmCoderH&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 
 ![ArmCoderH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArmCoderH&theme=monokai&hide_border=false)
+
+![ArmCoderH's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmCoderH&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 <!--
 **ArmCoderH/ArmCoderH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
