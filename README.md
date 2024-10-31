@@ -17,15 +17,6 @@ I’m Arman Hingora From India
 
 ---
 
-### 📫 Connect with Me
-<!-- Add your social links here, e.g., LinkedIn, Twitter -->
-
-<p align="left">
-  <a href="your-linkedin-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <!-- Add more icons as needed -->
-</p>
-
----
 
 ### 🛠️ Languages and Tools
 
