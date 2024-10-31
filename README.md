@@ -59,7 +59,7 @@ I’m Arman Hingora From India
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armcoderh&show_icons=true&locale=en" alt="armcoderh GitHub Stats" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armcoderh&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armcoderh&" alt="GitHub Streak" />
 
 </p>
 
