@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m Arman Hingora, a passionate developer interested in crafting efficient and elegant solutions. My tech stack spans from programming languages like **C, C++, Java,** and **JavaScript** to tools for web development, design, and version control.
+I’m Arman Hingora From India
 
 ---
 
