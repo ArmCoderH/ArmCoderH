@@ -67,10 +67,9 @@ I’m Arman Hingora From India
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armcoderh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=armcoderh&show_icons=true&locale=en" alt="armcoderh GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armcoderh&show_icons=true&locale=en" alt="armcoderh GitHub Stats" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armcoderh&" alt="GitHub Streak" />
+
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armcoderh&" alt="GitHub Streak" />
-</p>
+
