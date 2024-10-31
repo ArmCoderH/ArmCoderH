@@ -63,7 +63,7 @@ I’m Arman Hingora From India
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armcoderh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
