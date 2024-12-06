@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arman Hingora</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=armcoderh&label=Profile%20views&color=0e75b6&style=flat" alt="armcoderh" />
-</p>
----
-
 ### 👨‍💻 About Me
 I’m Arman Hingora From India
 
