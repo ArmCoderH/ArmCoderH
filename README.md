@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7d03df48-7c0e-4aec-bbbd-467e26c25cab)<h1 align="center">Hi 👋, I'm Arman Hingora</h1>
+<h1 align="center">Hi 👋, I'm Arman Hingora</h1>
 
 ### 👨‍💻 About Me  
 I’m Arman Hingora From India
