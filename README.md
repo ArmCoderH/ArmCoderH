@@ -10,7 +10,7 @@ I’m Arman Hingora from India, a passionate Computer Science and Engineering st
 
 ### 🔧 Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -43,7 +43,7 @@ I’m Arman Hingora from India, a passionate Computer Science and Engineering st
 ---
 
 ### 🔹 My LeetCode Profile
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/u/armcoderh/" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="LeetCode" width="40" height="40"/>
   </a>
@@ -60,15 +60,10 @@ I’m Arman Hingora from India, a passionate Computer Science and Engineering st
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=armcoderh&theme=radical" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armcoderh&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### 🔄 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/armanhingora/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
