@@ -41,7 +41,6 @@ I’m Arman Hingora From India
 ---
 ### Leetcode
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armcoderh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <a href="https://leetcode.com/u/armcoderh/" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="Leetcode" width="40" height="40"/>
   </a>
