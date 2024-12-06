@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-I’m Arman Hingora from India, a passionate Computer Science and Engineering student at **GEC Patan**, currently studying **Digital Systems and Logic Design** at **Gujarat Technological University**. I enjoy solving problems, designing efficient systems, and building projects that combine creativity with technology.
+I’m Arman Hingora from India, a passionate Computer Science and Engineering student at **GEC Patan**, I enjoy solving problems, designing efficient systems, and building projects that combine creativity with technology.
 
 ---
 
