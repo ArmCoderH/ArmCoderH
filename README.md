@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arman Hingora</h1>
+<h1 align="center">Hi <span style="color: #6C63FF;">👋</span>, I'm <span style="font-family: 'Courier New', Courier, monospace; color: #FFA500;">Arman Hingora</span></h1>
 
 ---
 
