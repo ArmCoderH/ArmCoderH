@@ -64,10 +64,10 @@ I’m Arman Hingora from India, a passionate Computer Science and Engineering st
 
 ### 🔄 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/armanhingora/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/arman-hingora-034a57275/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:armanhingora123@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:armanhingora000@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
