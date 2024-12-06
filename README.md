@@ -1,9 +1,6 @@
 ![image](https://github.com/user-attachments/assets/7d03df48-7c0e-4aec-bbbd-467e26c25cab)<h1 align="center">Hi 👋, I'm Arman Hingora</h1>
 
-### 👨‍💻 About Me  <p align="center">
-  <a href="https://leetcode.com/u/armcoderh/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="Leetcode" width="40" height="40"/>
-  </a>
+### 👨‍💻 About Me  
 I’m Arman Hingora From India
 
 ---
@@ -44,9 +41,11 @@ I’m Arman Hingora From India
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armcoderh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <a href="https://leetcode.com/u/armcoderh/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="Leetcode" width="10" height="10"/>
+  </a>
 </p>
 
 <p align="center">
