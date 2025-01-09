@@ -4,7 +4,8 @@
 
 ### 👨‍💻 About Me
 
-I’m Arman Hingora from India, a passionate Computer Science and Engineering student at **GEC Patan**, I enjoy solving problems, designing efficient systems, and building projects that combine creativity with technology.
+I’m Arman Hingora from India, a passionate Computer Science and Engineering student at **GEC Patan**.  
+I enjoy solving problems, designing efficient systems, and building projects that blend creativity with technology.
 
 ---
 
@@ -12,7 +13,7 @@ I’m Arman Hingora from India, a passionate Computer Science and Engineering st
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -43,6 +44,7 @@ I’m Arman Hingora from India, a passionate Computer Science and Engineering st
 ---
 
 ### 🔹 My LeetCode Profile
+
 <p align="left">
   <a href="https://leetcode.com/u/armcoderh/" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="LeetCode" width="40" height="40"/>
@@ -60,9 +62,11 @@ I’m Arman Hingora from India, a passionate Computer Science and Engineering st
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=armcoderh&theme=radical" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### 🔄 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/arman-hingora-034a57275/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
@@ -75,4 +79,20 @@ I’m Arman Hingora from India, a passionate Computer Science and Engineering st
 ---
 
 ### 🚀 Fun Fact
+
 > "I love exploring new tech stacks and turning coffee into code!"
+
+---
+
+### 🌟 Ongoing Projects
+
+- **[Project Name 1](#):** Brief description of your project or repository.  
+- **[Project Name 2](#):** Another example project.  
+
+---
+
+### 🌱 Current Goals
+
+- Sharpen problem-solving skills on LeetCode.  
+- Dive deeper into backend development and APIs.  
+- Contribute to open-source projects.  
