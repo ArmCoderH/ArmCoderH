@@ -43,12 +43,18 @@ I enjoy solving problems, designing efficient systems, and building projects tha
 
 ---
 
-### 🔹 My LeetCode Profile
+### 🔹 My DSA Profiles
 
 <p align="left">
   <a href="https://leetcode.com/u/armcoderh/" target="_blank" rel="noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="LeetCode" width="40" height="40"/>
   </a>
+
+  <a href="https://www.geeksforgeeks.org/user/armanhingwih4/" target="_blank" rel="noreferrer">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="GFG" width="40" height="40"/>
+  </a>
+
+  
 </p>
 
 ---
