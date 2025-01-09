@@ -83,16 +83,3 @@ I enjoy solving problems, designing efficient systems, and building projects tha
 > "I love exploring new tech stacks and turning coffee into code!"
 
 ---
-
-### 🌟 Ongoing Projects
-
-- **[Project Name 1](#):** Brief description of your project or repository.  
-- **[Project Name 2](#):** Another example project.  
-
----
-
-### 🌱 Current Goals
-
-- Sharpen problem-solving skills on LeetCode.  
-- Dive deeper into backend development and APIs.  
-- Contribute to open-source projects.  
