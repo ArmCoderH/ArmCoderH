@@ -78,7 +78,7 @@ I enjoy solving problems, designing efficient systems, and building projects tha
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:armanhingora000@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArmCoderH)](https://git.io/streak-stats)
   </a>
 </p>
 
