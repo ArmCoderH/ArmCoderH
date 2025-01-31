@@ -77,7 +77,7 @@ I enjoy solving problems, designing efficient systems, and building projects tha
   <a href="https://www.linkedin.com/in/arman-hingora-034a57275/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ArmCoderH&theme=violet-punch" alt="GitHub Streak" /></a
+    
 </p>
 
 ---
